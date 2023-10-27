@@ -1,1 +1,1 @@
-# Advanced-Statistical-Method
+# Heart stroke prediction
